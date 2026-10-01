@@ -1,0 +1,5 @@
+{
+  "name": "AgroAI - Smart Plant Detector",
+  "description": "Identify plant diseases from leaf or fruit images using AI. Get instant diagnosis and treatment recommendations.",
+  "requestFramePermissions": []
+}
